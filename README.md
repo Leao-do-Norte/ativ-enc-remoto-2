@@ -1,2 +1,4 @@
-# ativ-enc-remoto-2
-Atividade conduzida durante o Encontro Remoto 2 da UC 8 (Lógica de Programação)
+## Ângelo Vinícius Barreto Tavares | Turma Full-stack 13
+
+Encontro Remoto 2 da UC 8 (Lógica de Programação)
+ - Atividade sobre codificação de um sistema de contagem e classificação
